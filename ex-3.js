@@ -24,6 +24,6 @@ console.log(
     employee.address.states +
     ", " +
     employee.address.country +
-    ", " +
+    " " +
     employee.address.postalCode
 );
